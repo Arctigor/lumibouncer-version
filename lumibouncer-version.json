@@ -1,7 +1,5 @@
 {
-  "version": "1.2.0",
-  "version_code": 12,
-  "minimum_version": "1.0.2",
+  "version": "1.0.2",
   "update_url": null,
   "update_message": "A new version is available!",
   "force_update": false
